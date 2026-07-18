@@ -22,24 +22,24 @@ Sistema desktop desenvolvido em **Python** para gerenciamento de uma concession�
 
 ```text
 Projeto
-├── acesso/
-├── adm/
-├── agendamento/
-├── cadcli/
-├── carro/
-├── dashboard/
-├── database/
-├── dados/
-├── frota/
-├── funcionarios/
-├── mennu/
-├── permissoes/
-├── pesqcli/
-├── pesqfunc/
-├── relatorios/
-├── sessao/
-├── usuarios/
-└── vendas/
+├── acesso.py
+├── adm.py
+├── agendamento.py
+├── cadcli.py
+├── carro.py
+├── dashboard.py
+├── database.py
+├── dados.py
+├── frota.py
+├── funcionarios.py
+├── menu.py
+├── permissoes.py
+├── pesqcli.py
+├── pesqfunc.py
+├── relatorios.py
+├── sessao.py
+├── usuarios.py
+└── vendas.py
 ```
 
 ## 🛠️ Tecnologias
