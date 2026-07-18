@@ -56,7 +56,7 @@ Projeto
 1. Clone este repositório:
 
 ```bash
-git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git
+git clone https://github.com/dniel-404/car-dealership-system.git
 ```
 
 2. Instale as dependências (em breve serão disponibilizadas).
