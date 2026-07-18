@@ -69,7 +69,15 @@ git clone https://github.com/dniel-404/car-dealership-system.git
 ```bash
 pip install tkcalendar bcrypt reportlab
 ```
-
 3. Execute o arquivo principal do sistema.
+
+
+## 🔑 Acesso de Demonstração
+
+Para testar o sistema, utilize as credenciais abaixo:
+
+**Usuário:** `admin`  
+**Senha:** `admin123`
+
 
 Projeto desenvolvido em grupo como atividade acadêmica.
