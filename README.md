@@ -48,7 +48,12 @@ Projeto
 - Tkinter
 - SQLite
 
-> Outras bibliotecas utilizadas serão adicionadas futuramente.
+## 📚 Bibliotecas
+
+- tkinter
+- tkcalendar
+- bcrypt
+- reportlab
 
 
 ## 🚀 Como executar
@@ -59,7 +64,11 @@ Projeto
 git clone https://github.com/dniel-404/car-dealership-system.git
 ```
 
-2. Instale as dependências (em breve serão disponibilizadas).
+2. Instale as dependências do projeto:
+
+```bash
+pip install tkcalendar bcrypt reportlab
+```
 
 3. Execute o arquivo principal do sistema.
 
